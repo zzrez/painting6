@@ -178,3 +178,20 @@ a {
   background: #4281f5;
   color: #ffffff;
 }
+
+/* our stuff */
+
+.hdr {
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 2px solid grey;
+  padding: 6px 4px;
+  font-size: 12px;
+}
+
+.info {
+  font-weight: lighter;
+  padding: 5px 4px;
+  font-size: 12px;
+}

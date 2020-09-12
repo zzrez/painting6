@@ -2,21 +2,23 @@
     "art": [
         {
             "image": "IMG_2022.jpg",
-            "title": "Man & monkey",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "28.5",
             "heightcm": "34",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2027.jpg",
-            "title": "The market",
+            "title": "Untitled",
             "painter": "n/a",
             "widthcm": "114",
             "heightcm": "89",
             "country": "Nicaragua",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2028.jpg",
@@ -25,79 +27,88 @@
             "widthcm": "98.5",
             "heightcm": "79",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2033.jpg",
-            "title": "Circus",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "98",
             "heightcm": "118.5",
             "country": "Ecuador",
-            "year": "1990"
+            "year": "1990",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2039.jpg",
-            "title": "Mask",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "59",
             "heightcm": "68",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2040.jpg",
-            "title": "Fortune teller",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "99",
             "heightcm": "119",
             "country": "Ecuador",
-            "year": "1990"
+            "year": "1990",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2046.jpg",
-            "title": "Procession",
+            "title": "Untitled",
             "painter": "Rodriguez",
             "widthcm": "61.5",
             "heightcm": "47",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2049.jpg",
-            "title": "Main plaza",
+            "title": "Untitled",
             "painter": "Rodriguez",
             "widthcm": "61.5",
             "heightcm": "47",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2058.jpg",
-            "title": "Mangoes",
+            "title": "Untitled",
             "painter": "n/a",
             "widthcm": "56",
             "heightcm": "83",
             "country": "Nicaragua",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2063.jpg",
-            "title": "Melons",
+            "title": "Untitled",
             "painter": "n/a",
             "widthcm": "66.5",
             "heightcm": "97.5",
             "country": "Nicaragua",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2070.jpg",
-            "title": "Talking",
+            "title": "Untitled",
             "painter": "Napoleon Paredes",
             "widthcm": "25.5",
             "heightcm": "79.5",
             "country": "Ecuador",
-            "year": "1991"
+            "year": "1991",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2071.jpg",
@@ -106,16 +117,18 @@
             "widthcm": "51.5",
             "heightcm": "60",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2076.jpg",
-            "title": "Dreamer",
+            "title": "Untitled",
             "painter": "Mario Navarro",
             "widthcm": "97",
             "heightcm": "120",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2081.jpg",
@@ -124,16 +137,18 @@
             "widthcm": "98",
             "heightcm": "119.5",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2085.jpg",
-            "title": "Animal world",
+            "title": "Untitled",
             "painter": "Cayo de Mare",
             "widthcm": "60",
             "heightcm": "50",
             "country": "Dominican Republic",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2107.jpg",
@@ -142,7 +157,8 @@
             "widthcm": "144",
             "heightcm": "119",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2113.jpg",
@@ -151,106 +167,118 @@
             "widthcm": "89",
             "heightcm": "119",
             "country": "Dominican Republic",
-            "year": "1993"
+            "year": "1993",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2119.jpg",
-            "title": "Music players",
+            "title": "Untitled",
             "painter": "n/a",
             "widthcm": "80.5",
             "heightcm": "63",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Ink"
         },
         {
             "image": "IMG_2120.jpg",
-            "title": "Village group",
-            "painter": "Painter of Tigua",
+            "title": "Untitled",
+            "painter": "Tigua painter",
             "widthcm": "32",
             "heightcm": "24",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2128.jpg",
-            "title": "Band",
-            "painter": "Painter of Tigua",
+            "title": "Untitled",
+            "painter": "Tigua painter",
             "widthcm": "30",
             "heightcm": "20",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2132.jpg",
-            "title": "Market",
+            "title": "Untitled",
             "painter": "Chugchilan",
             "widthcm": "35",
             "heightcm": "29",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2137.jpg",
-            "title": "Condor",
+            "title": "Untitled",
             "painter": "Olmedo Puyo",
             "widthcm": "30",
             "heightcm": "19",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2141.jpg",
-            "title": "Procession & church",
+            "title": "Untitled",
             "painter": "Chugchilan",
             "widthcm": "41.5",
             "heightcm": "32.5",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2143.jpg",
-            "title": "Llamas",
+            "title": "Untitled",
             "painter": "Mandi Vega",
             "widthcm": "32",
             "heightcm": "23.5",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2145.jpg",
-            "title": "Andes",
+            "title": "Untitled",
             "painter": "Chugchilan",
             "widthcm": "19",
             "heightcm": "19",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2149.jpg",
-            "title": "The bridge",
+            "title": "Untitled",
             "painter": "J Manuel",
             "widthcm": "40",
             "heightcm": "30.5",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2152.jpg",
-            "title": "At the river",
-            "painter": "Painter of Tigua",
+            "title": "Untitled",
+            "painter": "Tigua painter",
             "widthcm": "39.5",
             "heightcm": "31",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2154.jpg",
-            "title": "Country life",
-            "painter": "Painter of Tigua",
+            "title": "Untitled",
+            "painter": "Tigua painter",
             "widthcm": "30",
             "heightcm": "25",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2159.jpg",
@@ -259,61 +287,68 @@
             "widthcm": "50",
             "heightcm": "35",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2164.jpg",
-            "title": "Altiplano",
+            "title": "Untitled",
             "painter": "Chugchilan",
             "widthcm": "40",
             "heightcm": "33",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil on pigskin"
         },
         {
             "image": "IMG_2170.jpg",
-            "title": "Motion",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "22",
             "heightcm": "23.5",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2173.jpg",
-            "title": "Houses",
+            "title": "Untitled",
             "painter": "Almaguer",
             "widthcm": "49",
             "heightcm": "34.5",
             "country": "Cuba",
-            "year": "1986"
+            "year": "1986",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2182.jpg",
-            "title": "Street",
+            "title": "Untitled",
             "painter": "Almaguer",
             "widthcm": "51",
             "heightcm": "33",
             "country": "Cuba",
-            "year": "1983"
+            "year": "1983",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2200.jpg",
-            "title": "The skater",
+            "title": "Untitled",
             "painter": "Garcia",
             "widthcm": "22",
             "heightcm": "30",
             "country": "Dominican Republic",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2204.jpg",
-            "title": "Old corner house",
+            "title": "Untitled",
             "painter": "Velasco",
             "widthcm": "48",
             "heightcm": "63",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Watercolour"
         },
         {
             "image": "IMG_2208.jpg",
@@ -322,7 +357,8 @@
             "widthcm": "39",
             "heightcm": "30.5",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Print"
         },
         {
             "image": "IMG_2211.jpg",
@@ -331,7 +367,8 @@
             "widthcm": "19",
             "heightcm": "20.5",
             "country": "Ecuador",
-            "year": "1982"
+            "year": "1982",
+            "technique": "Print"
         },
         {
             "image": "IMG_2213.jpg",
@@ -340,79 +377,88 @@
             "widthcm": "16",
             "heightcm": "16",
             "country": "Ecuador",
-            "year": "1982"
+            "year": "1982",
+            "technique": "Print"
         },
         {
             "image": "IMG_2219.jpg",
-            "title": "Crowd",
+            "title": "Untitled",
             "painter": "Edgar Marin",
             "widthcm": "30.5",
             "heightcm": "25.5",
             "country": "Ecuador",
-            "year": "1993"
+            "year": "1993",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2223.jpg",
-            "title": "The group",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "29",
             "heightcm": "39.5",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2230.jpg",
-            "title": "People",
-            "painter": "Fabelo",
+            "title": "Untitled",
+            "painter": "Roberto Fabelo",
             "widthcm": "48",
             "heightcm": "35",
             "country": "Cuba",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Drawing"
         },
         {
             "image": "IMG_2234.jpg",
-            "title": "Meeting",
+            "title": "Untitled",
             "painter": "Eba",
             "widthcm": "33",
             "heightcm": "26",
             "country": "Ecuador",
-            "year": "1990"
+            "year": "1990",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2235.jpg",
-            "title": "At one",
+            "title": "Untitled",
             "painter": "n/a",
             "widthcm": "51",
             "heightcm": "69",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Watercolour"
         },
         {
             "image": "IMG_2242.jpg",
-            "title": "The stone",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "39.5",
             "heightcm": "49",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2246.jpg",
-            "title": "Harlequin",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "39.5",
             "heightcm": "49",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2253.jpg",
-            "title": "The thinker",
+            "title": "Untitled",
             "painter": "Washington Iza",
             "widthcm": "28.5",
             "heightcm": "34",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2257.jpg",
@@ -421,16 +467,18 @@
             "widthcm": "69",
             "heightcm": "98.5",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2259.jpg",
-            "title": "Jungle",
+            "title": "Untitled",
             "painter": "Alfonso Vega Cuyo",
             "widthcm": "85.5",
             "heightcm": "66.5",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2267.jpg",
@@ -439,7 +487,8 @@
             "widthcm": "49",
             "heightcm": "29",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2271.jpg",
@@ -448,16 +497,18 @@
             "widthcm": "47",
             "heightcm": "62",
             "country": "Ecuador",
-            "year": "1989"
+            "year": "1989",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2273.jpg",
-            "title": "Bird of paradise",
+            "title": "Untitled",
             "painter": "Kauage",
             "widthcm": "50",
             "heightcm": "63",
             "country": "Papua New Guinea",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Print"
         },
         {
             "image": "IMG_2285.jpg",
@@ -466,7 +517,8 @@
             "widthcm": "78",
             "heightcm": "98",
             "country": "Ecuador",
-            "year": "1990"
+            "year": "1990",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2298.jpg",
@@ -475,7 +527,8 @@
             "widthcm": "23.5",
             "heightcm": "34.5",
             "country": "n/a",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Print"
         },
         {
             "image": "IMG_2306.jpg",
@@ -484,52 +537,58 @@
             "widthcm": "25",
             "heightcm": "34",
             "country": "n/a",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Print"
         },
         {
             "image": "IMG_2312.jpg",
-            "title": "In the garden",
+            "title": "Untitled",
             "painter": "Diaz",
             "widthcm": "96.5",
             "heightcm": "96.5",
             "country": "Dominican Republic",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2324.jpg",
-            "title": "Harbour",
+            "title": "Untitled",
             "painter": "n/a",
             "widthcm": "70",
             "heightcm": "49",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Watercolour"
         },
         {
             "image": "IMG_2341.jpg",
-            "title": "El Dorado",
+            "title": "Untitled",
             "painter": "Theodor de Bry",
             "widthcm": "18.5",
             "heightcm": "17",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Print"
         },
         {
             "image": "IMG_2352.jpg",
-            "title": "Still life seated",
+            "title": "Untitled",
             "painter": "n/a",
-            "widthcm": "n/a",
-            "heightcm": "n/a",
+            "widthcm": "98",
+            "heightcm": "113",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Oil"
         },
         {
             "image": "IMG_2358.jpg",
-            "title": "Fruit",
-            "painter": "Guayasamin",
+            "title": "Untitled",
+            "painter": "Oswaldo Guayasamin",
             "widthcm": "34.5",
             "heightcm": "49.5",
             "country": "Ecuador",
-            "year": "n/a"
+            "year": "n/a",
+            "technique": "Print"
         }
     ]
 }
