@@ -185,7 +185,7 @@ a {
   text-transform: uppercase;
   text-align: left;
   font-weight: bold;
-  border-bottom: 2px solid grey;
+  border-bottom: 1px solid grey;
   padding: 6px 4px;
   font-size: 12px;
 }
