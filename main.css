@@ -182,12 +182,14 @@ a {
 /* our stuff */
 
 .hdr {
-  text-transform: uppercase;
+  /* text-transform: uppercase;
   text-align: left;
-  font-weight: bold;
+  font-weight: bold; */
   border-bottom: 1px solid grey;
-  padding: 6px 4px;
-  font-size: 12px;
+  padding: 8px 4px;
+  height: 12px;
+  /* font-size: 12px; */
+  /* clear: both; */
 }
 
 .info {
@@ -195,3 +197,21 @@ a {
   padding: 5px 4px;
   font-size: 12px;
 }
+
+.leftDiv {
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  width: 80%;
+  float: left;
+}
+.rightDiv {
+  font-weight: lighter;
+  /* padding: 5px 4px; */
+  font-style: italic;
+  text-align: right;
+  font-size: 11px;
+  width: 20%;
+  float: right;
+}			
